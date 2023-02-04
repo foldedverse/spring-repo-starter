@@ -1,0 +1,10 @@
+{
+    //https://stackoverflow.com/questions/53534584/does-visual-studio-code-have-an-auto-import-feature-for-java
+    "prettier.enable": true, // I only use Prettier for manually formatting
+    "prettier.printWidth": 200,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": true
+    }
+}
